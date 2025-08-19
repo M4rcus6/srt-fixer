@@ -4,13 +4,17 @@ CLI that fixes broken srt subtitles
 INSTALLATION:
 
 To clone the repo:
+
     git clone https://github.com/M4rcus6/srt-fixer.git
+    
+    cd srt-fixer
 
 Build executable: 
     go build
 
 
 SETUP:
+
 	Before using the tool, please set the google API KEY as an env variable:
 
 	For Linux/macOS:
